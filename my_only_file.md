@@ -1,5 +1,5 @@
 # The file
-This is my only file for Alice
+This is my only file for both
 
 ## Alice section
 This is my new line
