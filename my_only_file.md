@@ -6,9 +6,6 @@ This is my new line
 
 ## Bob section
 This is my new line
-<<<<<<< HEAD
 
-
+# Alice section
 This is my second line
-=======
->>>>>>> deleted empty lines
