@@ -1,5 +1,6 @@
 # The file
 This is my only file for both
+General instructions.
 
 ## Alice section
 This is my new line
