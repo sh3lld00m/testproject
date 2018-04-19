@@ -1,6 +1,6 @@
 # The file
-This is my only file for both
-General instructions.
+Hello.
+This is my only file for both.
 
 ## Alice section
 This is my new line
